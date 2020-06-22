@@ -5,5 +5,7 @@ a*(Style Score)+ b*(Content Score)
 
 Here,
  
-a & Style loss are inversly proportinal
-b & Content loss are directly proportional
+a & Style loss are #inversly proportinal
+
+
+b & Content loss are #directly proportional
